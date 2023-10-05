@@ -1,3 +1,2 @@
 # sunghyo
-# header
-<img src="https://capsule-render.vercel.app/api?type=circle&color=darkgreen&height=10&section=header&text=Hello&fontSize=7" />
+<img src="https://capsule-render.vercel.app/api?&color=darkgreen&height=10&section=header&text=Hello&fontSize=7" />
