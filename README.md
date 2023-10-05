@@ -1,8 +1,8 @@
 # sunghyo
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rectangle&color=auto&height=200&section=header&text=Welcome%20&fontSize=90)
 
 <!-- info -->
-### :wave: Welcome!
+### :wave: Hello!
 
 <!-- Language logo-->
 ### Main Lanauage
